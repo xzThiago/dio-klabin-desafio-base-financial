@@ -21,7 +21,7 @@ O dashboard é composto por duas páginas principais com objetivos distintos.
 
 Esta é a página principal, focada em fornecer uma visão geral (overview) do desempenho de vendas.
 
-![Sales Report](image_3e6984.jpg)
+![Sales Report](sales_report.png)
 
 #### Principais Indicadores (KPIs)
 * **Total Sales:** Receita total de vendas ($106,73 Mi).
@@ -42,7 +42,7 @@ Esta é a página principal, focada em fornecer uma visão geral (overview) do d
 
 Esta página oferece uma análise mais profunda (deep dive) especificamente sobre o Lucro, utilizando visuais avançados para decompor os resultados.
 
-![Profit Report](image_3e6cc6.jpg)
+![Profit Report](profit_report.png)
 
 #### Filtros
 * **Ano:** Permite ao usuário filtrar a análise por um ano específico (ex: 2013, 2014) ou ver todos os dados.
