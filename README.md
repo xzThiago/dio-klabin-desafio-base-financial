@@ -24,7 +24,7 @@ Esta é a página principal, focada em fornecer uma visão geral (overview) do d
 ![Sales Report](sales_report.png)
 
 ---
-![Sales Report](sales_report_tooltip1.png)
+![Sales Report](sales_report_tooltip_1.png)
 
 ---
 ![Sales Report](sales_report_tooltip2.png)
