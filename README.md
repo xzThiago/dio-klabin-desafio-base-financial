@@ -22,8 +22,10 @@ O dashboard é composto por duas páginas principais com objetivos distintos.
 Esta é a página principal, focada em fornecer uma visão geral (overview) do desempenho de vendas.
 
 ![Sales Report](sales_report.png)
+
 ---
 ![Sales Report](sales_report_tooltip1.png)
+
 ---
 ![Sales Report](sales_report_tooltip2.png)
 
@@ -47,6 +49,7 @@ Esta é a página principal, focada em fornecer uma visão geral (overview) do d
 Esta página oferece uma análise mais profunda (deep dive) especificamente sobre o Lucro, utilizando visuais avançados para decompor os resultados.
 
 ![Profit Report](profit_report.png)
+
 ---
 ![Sales Report](profit_report_tooltip.png)
 
